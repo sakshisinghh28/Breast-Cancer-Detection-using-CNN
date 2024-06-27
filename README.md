@@ -4,7 +4,8 @@
 This project aims to develop a CNN-based model for breast cancer detection using mammography images from the MIAS dataset.
 
 ## Dataset
-- **MIAS Dataset**: Contains labeled mammography images.
+- **MIAS Dataset**: This dataset contains labeled mammography images used for training and evaluation.
+- [MIAS Dataset on Kaggle](https://www.kaggle.com/datasets/kmader/mias-mammography)
 - **Preprocessing**: Images were resized to `224x224` pixels and normalized.
 
 ## Model Architecture
